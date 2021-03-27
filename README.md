@@ -22,3 +22,7 @@ The [Mobile Blazor Bindings](https://docs.microsoft.com/en-us/mobile-blazor-bind
 * Open the `~/BlazorHybridApp/BlazorHybridApp.sln` file in the Visual Studio 2019.
 * Set any platform specific project as a startup project and run the application.
 * The Syncfusion Blazor component will be exposed in the native desktop or hybrid mobile layout.
+
+## Blog post 
+
+* Refer to this [blog post](https://www.syncfusion.com/blogs/post/blazor-hybrid-apps-using-mobile-blazor-bindings.aspx) for more details.
